@@ -134,16 +134,16 @@ URL: https://themeforest.net/user/ahmedbeheiry
 	----------------------------------------------------- */
 	$("#facts").appear(function () {
 		$("#number_1").animateNumber({
-			number: 6853	// Change to your number			
+			number: 25000	// Change to your number			
 		}, 2200);
 		$("#number_2").animateNumber({
-			number: 120		// Change to your number	
+			number: 24		// Change to your number	
 		}, 2200);
 		$("#number_3").animateNumber({
 			number: 345		// Change to your number
 		}, 2200);
 		$("#number_4").animateNumber({
-			number: 195		// Change to your number
+			number: 292		// Change to your number
 		}, 2200);
 	}, {
 			accX: 0,
